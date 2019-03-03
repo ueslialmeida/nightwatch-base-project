@@ -1,0 +1,4 @@
+node_modules
+/lib/drivers/geckodriver
+.eslintrc.json
+package-lock.json
