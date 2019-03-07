@@ -19,7 +19,7 @@ For default, it comes with two dev dependencies, nightwatch and eslint. After in
 
 Change the file package.json to reflect your project's info like description, name, author.
 
-Run the command ```npm install package.json``` to install all the dependencies.
+Run the command ```npm install``` to install all the dependencies.
 
 Recomend using eslint with StandardJS as Code Style Guide, well, it is just a personal recomendation.
 
